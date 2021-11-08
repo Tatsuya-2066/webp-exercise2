@@ -1,0 +1,61 @@
+html {
+    background-image: url("../images/015_C01.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-size: contain;
+    margin: 0px;
+    font-size: 50px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+main {
+    background-color: white;
+    border-color: black;
+    border: 2px solid;
+    width: 70%;
+    margin: auto;
+}
+
+.example {
+    display: flex;
+    justify-content: space-around;
+    left: 30%;
+}
+
+.example-of-use {
+    background-color: black;
+    color: white;
+    border: 5px solid;
+}
+
+.output {
+    background-color: white;
+    color: black;
+}
+
+.content {
+    border-bottom: 3px solid;
+    border-radius: 2px;
+}
+
+.output h1 {
+    background-color: white;
+}
+
+footer {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.practice {
+    text-align: center;
+}
+
+.author {
+    font-size: 13px;
+    text-align: center;
+}
